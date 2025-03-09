@@ -67,4 +67,4 @@ def main(image_path1, image_path2):
 
 
 # Example Usage
-main("image1.jpg", "image2.jpg")
+main("image/image1.jpg", "image/image2.jpg")
